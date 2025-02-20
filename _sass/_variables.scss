@@ -32,21 +32,10 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-// Retro colors
-
-$retro-light: #1b9c85 !default;
-$retro-light-highlight: color.adjust($retro-light, $lightness: 25%);
-$retro-dark: #ef6262 !default;
-$retro-dark-highlight: color.adjust($retro-dark, $lightness: 10%);
-$retro-black: #173b45 !default;
-$retro-white: #ffffff !default;
-
 // Theme colors
 
-// $code-bg-color-light: rgba($purple-color, 0.05);
-// $code-bg-color-dark: #2c3237 !default;
-$code-bg-color-light: color.adjust($retro-light, $lightness: 57%);
-$code-bg-color-dark: color.adjust($retro-dark, $lightness: -60%);
+$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
