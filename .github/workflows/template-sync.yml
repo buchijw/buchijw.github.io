@@ -10,7 +10,6 @@ on:
 permissions:
   contents: write
   pull-requests: write
-  actions: write
 
 jobs:
   repo-sync:
@@ -23,6 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: dev
+          token: ${{ secrets.TEMPLATE_SYNC_TOKEN }}
         # https://github.com/actions/checkout#usage
         # uncomment if you use submodules within the repository
         # with:
@@ -31,6 +31,7 @@ jobs:
       - name: actions-template-sync
         uses: AndreasAugustin/actions-template-sync@v2
         with:
+          target_gh_token: ${{ secrets.TEMPLATE_SYNC_TOKEN }}
           source_repo_path: alshedivat/al-folio
           upstream_branch: main # defaults to main
           pr_labels: sync_template # defaults to template_sync
