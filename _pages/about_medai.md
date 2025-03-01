@@ -8,5 +8,5 @@ Current members:
 - Hoang-Son Lai Le, Ph.D. Reseacher
 - Gia-Bao Truong, BA. in Pharmacy
 - Thanh-An Pham, BA. in Pharmacy
-- Van-Thinh To, BA. in Pharmacy
+- [Van-Thinh To, BA. in Pharmacy](https://thinhump.github.io)
 - Phuoc-Chung Van Nguyen, BA. in Pharmacy
