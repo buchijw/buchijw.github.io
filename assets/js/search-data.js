@@ -44,11 +44,32 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "news-new-paper-was-published-in-acs-omega",
+        },{id: "dropdown-news",
+              title: "news",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/news/";
+              },
+            },{id: "dropdown-publications",
+              title: "publications",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publications/";
+              },
+            },{id: "dropdown-cv",
+              title: "CV",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/cv/";
+              },
+            },{id: "news-new-paper-was-published-in-acs-omega",
           title: 'New paper was published in ACS Omega',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2024_11_16/";
+              window.location.href = "/news/announcement_2024_11_16.html";
             },},{
         id: 'social-email',
         title: 'email',
