@@ -1,9 +1,14 @@
 github_users:
-  - buchijw
+  - torvalds
+  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - buchijw/JTVAE-GA
-  - buchijw/QSAR-VEGFR2
-  - buchijw/JTVAE-lolbo-VEGFR2
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
