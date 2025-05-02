@@ -5,9 +5,14 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: the buchijw
+    permalink: https://the.buchijw.com/
+  - title: news
+    permalink: /news/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: publications
+    permalink: /publications/
+  - title: divider
+  - title: CV
+    permalink: /cv/
 ---
