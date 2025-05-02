@@ -6,7 +6,7 @@ subtitle: Pharmacist, Research Assistant in Cheminformatics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Bao_AssocProf_Tuyen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bachelor dissertation day with Assoc. Prof. Tuyen Ngoc Truong at UMP</p>
