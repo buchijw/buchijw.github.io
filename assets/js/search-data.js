@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-news",
+  },{id: "nav-lt-the-buchijw-gt",
+          title: "&lt; the buchijw &gt;",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/the.buchijw.com/";
+          },
+        },{id: "nav-news",
           title: "news",
           description: "",
           section: "Navigation",
@@ -23,20 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "My academic curriculum vitae",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "I am currently a member in MedAI team.",
@@ -44,19 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-news",
-              title: "news",
+        },{id: "dropdown-repositories",
+              title: "repositories",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/news/";
-              },
-            },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/publications/";
+                window.location.href = "/repositories/";
               },
             },{id: "dropdown-cv",
               title: "CV",
