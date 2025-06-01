@@ -40,8 +40,6 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
-
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -281,7 +279,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: papers_buchijw.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -638,7 +636,8 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: https://registry.jsonresume.org/buchijw.json # it can also be an url
+    json: assets/json/resume.json # it can also be an url
+
 jsonresume:
   - basics
   - work
