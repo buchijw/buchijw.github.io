@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: I am currently a member in <b>MedAI team</b>.
+description: I am currently a member in <b>MedAI Research Group</b>.
 nav: true
 nav_order: 7
 
@@ -14,7 +14,7 @@ profiles:
     content: about_medai.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>MedAI logo</p>
+      <p>MedAI Research Group</p>
       <p>University of Medicine and Pharmacy at Ho Chi Minh City</p>
   # - align: left
   #   image: prof_pic.jpg
