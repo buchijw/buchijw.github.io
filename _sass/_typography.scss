@@ -1,0 +1,7 @@
+@use "variables" as v;
+
+.bjw {
+  background: linear-gradient(to right, #{v.$bjw-left} 0%, #{v.$bjw-right} 100%);
+  background-clip: text;
+  color: transparent;
+}
