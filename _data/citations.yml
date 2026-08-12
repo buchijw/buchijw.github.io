@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-12'
 papers:
   KcpYBy8AAAAJ:IjCSPb-OGe4C:
-    citations: 2
+    citations: 3
     title: Synergy of advanced machine learning and deep neural networks with consensus molecular docking for virtual screening of anaplastic lymphoma kinase inhibitors
     year: '2025'
   KcpYBy8AAAAJ:UeHWp8X0CEIC:
-    citations: 11
+    citations: 12
     title: 'KGG: Knowledge-Guided Graph Self-Supervised Learning to Enhance Molecular Property Predictions'
     year: '2025'
   KcpYBy8AAAAJ:d1gkVwhDpl0C:
@@ -18,7 +18,7 @@ papers:
     title: Discovery of Vascular Endothelial Growth Factor Receptor 2 Inhibitors Employing Junction Tree Variational Autoencoder with Bayesian Optimization and Gradient Ascent
     year: '2024'
   KcpYBy8AAAAJ:u-x6o8ySG0sC:
-    citations: 3
+    citations: 4
     title: A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models
     year: '2023'
   KcpYBy8AAAAJ:u5HHmVD_uO8C:
