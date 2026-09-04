@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-09-04'
 papers:
   KcpYBy8AAAAJ:IjCSPb-OGe4C:
     citations: 3
@@ -7,7 +7,7 @@ papers:
     year: '2025'
   KcpYBy8AAAAJ:UeHWp8X0CEIC:
     citations: 12
-    title: 'KGG: Knowledge-Guided Graph Self-Supervised Learning to Enhance Molecular Property Predictions'
+    title: 'KGG: Knowledge-guided graph self-supervised learning to enhance molecular property predictions'
     year: '2025'
   KcpYBy8AAAAJ:d1gkVwhDpl0C:
     citations: 0
